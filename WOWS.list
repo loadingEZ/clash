@@ -12,3 +12,7 @@ IP-CIDR,92.223.16.26/32,no-resolve
 IP-CIDR,95.85.74.135/32,no-resolve
 IP-CIDR,92.223.17.237/32,no-resolve
 IP-CIDR,92.223.16.131/32,no-resolve
+IP-CIDR,92.223.20.242/32,no-resolve
+IP-CIDR,92.223.28.12/32,no-resolve
+IP-CIDR,92.223.28.14/32,no-resolve
+IP-CIDR,92.223.17.236/32,no-resolve
